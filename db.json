@@ -1,0 +1,544 @@
+{
+  "absensi": [
+    {
+      "id": "4",
+      "nama": "Andi",
+      "alamat": "Jl. Pelajar Pejuang 45 No.10, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:00",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "6",
+      "nama": "Siti",
+      "alamat": "Jl. Merdeka No.12, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:07",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "7",
+      "nama": "Siti",
+      "alamat": "Jl. Merdeka No.12, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:07",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "8",
+      "nama": "Siti",
+      "alamat": "Jl. Merdeka No.12, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:05",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "9",
+      "nama": "Budi",
+      "alamat": "Jl. Gatot Subroto No.21, Surabaya",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:04",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "10",
+      "nama": "Budi",
+      "alamat": "Jl. Gatot Subroto No.21, Surabaya",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "11",
+      "nama": "Budi",
+      "alamat": "Jl. Gatot Subroto No.21, Surabaya",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:03",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "12",
+      "nama": "Budi",
+      "alamat": "Jl. Gatot Subroto No.21, Surabaya",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:10",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "13",
+      "nama": "Dewi",
+      "alamat": "Jl. Asia Afrika No.4, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:08",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "14",
+      "nama": "Dewi",
+      "alamat": "Jl. Asia Afrika No.4, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:06",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "15",
+      "nama": "Dewi",
+      "alamat": "Jl. Asia Afrika No.4, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:08",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "16",
+      "nama": "Dewi",
+      "alamat": "Jl. Asia Afrika No.4, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:09",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "17",
+      "nama": "Rudi",
+      "alamat": "Jl. Pemuda No.99, Yogyakarta",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "18",
+      "nama": "Rudi",
+      "alamat": "Jl. Pemuda No.99, Yogyakarta",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:12",
+      "jamKeluar": "17:00"
+    },
+    {
+      "id": "19",
+      "nama": "Rudi",
+      "alamat": "Jl. Pemuda No.99, Yogyakarta",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:03",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "20",
+      "nama": "Rudi",
+      "alamat": "Jl. Pemuda No.99, Yogyakarta",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:05",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "21",
+      "nama": "Lina",
+      "alamat": "Jl. Braga No.2, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:08",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "22",
+      "nama": "Lina",
+      "alamat": "Jl. Braga No.2, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "23",
+      "nama": "Lina",
+      "alamat": "Jl. Braga No.2, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:15",
+      "jamKeluar": "17:00"
+    },
+    {
+      "id": "24",
+      "nama": "Lina",
+      "alamat": "Jl. Braga No.2, Bandung",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:15",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "25",
+      "nama": "Yudi",
+      "alamat": "Jl. Sudirman No.77, Semarang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:09",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "26",
+      "nama": "Yudi",
+      "alamat": "Jl. Sudirman No.77, Semarang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:01",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "27",
+      "nama": "Yudi",
+      "alamat": "Jl. Sudirman No.77, Semarang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:09",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "28",
+      "nama": "Yudi",
+      "alamat": "Jl. Sudirman No.77, Semarang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:00",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "29",
+      "nama": "Tina",
+      "alamat": "Jl. Ahmad Yani No.5, Bekasi",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "30",
+      "nama": "Tina",
+      "alamat": "Jl. Ahmad Yani No.5, Bekasi",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:05",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "31",
+      "nama": "Tina",
+      "alamat": "Jl. Ahmad Yani No.5, Bekasi",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "32",
+      "nama": "Tina",
+      "alamat": "Jl. Ahmad Yani No.5, Bekasi",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:01",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "33",
+      "nama": "Agus",
+      "alamat": "Jl. Pahlawan No.3, Malang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:05",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "34",
+      "nama": "Agus",
+      "alamat": "Jl. Pahlawan No.3, Malang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:06",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "35",
+      "nama": "Agus",
+      "alamat": "Jl. Pahlawan No.3, Malang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:09",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "36",
+      "nama": "Agus",
+      "alamat": "Jl. Pahlawan No.3, Malang",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:01",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "37",
+      "nama": "Rina",
+      "alamat": "Jl. Diponegoro No.15, Depok",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:06",
+      "jamKeluar": "17:00"
+    },
+    {
+      "id": "38",
+      "nama": "Rina",
+      "alamat": "Jl. Diponegoro No.15, Depok",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:15",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "39",
+      "nama": "Rina",
+      "alamat": "Jl. Diponegoro No.15, Depok",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:07",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "40",
+      "nama": "Rina",
+      "alamat": "Jl. Diponegoro No.15, Depok",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:06",
+      "jamKeluar": "17:00"
+    },
+    {
+      "id": "41",
+      "nama": "Ilham",
+      "alamat": "Jl. Taman Sari No.9, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:00"
+    },
+    {
+      "id": "42",
+      "nama": "Ilham",
+      "alamat": "Jl. Taman Sari No.9, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:07",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "43",
+      "nama": "Ilham",
+      "alamat": "Jl. Taman Sari No.9, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:10",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "44",
+      "nama": "Ilham",
+      "alamat": "Jl. Taman Sari No.9, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:03",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "45",
+      "nama": "Dina",
+      "alamat": "Jl. Mangga Dua No.17, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "46",
+      "nama": "Dina",
+      "alamat": "Jl. Mangga Dua No.17, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:08",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "47",
+      "nama": "Dina",
+      "alamat": "Jl. Mangga Dua No.17, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:03",
+      "jamKeluar": "17:05"
+    },
+    {
+      "id": "48",
+      "nama": "Dina",
+      "alamat": "Jl. Mangga Dua No.17, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:03",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "49",
+      "nama": "Fajar",
+      "alamat": "Jl. Cihampelas No.10, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:08",
+      "jamKeluar": "17:10"
+    },
+    {
+      "id": "50",
+      "nama": "Fajar",
+      "alamat": "Jl. Cihampelas No.10, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:02",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "51",
+      "nama": "Fajar",
+      "alamat": "Jl. Cihampelas No.10, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:04",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "52",
+      "nama": "Fajar",
+      "alamat": "Jl. Cihampelas No.10, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:00",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "53",
+      "nama": "Mira",
+      "alamat": "Jl. Kebon Jeruk No.1, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:00",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "54",
+      "nama": "Mira",
+      "alamat": "Jl. Kebon Jeruk No.1, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:12",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "55",
+      "nama": "Mira",
+      "alamat": "Jl. Kebon Jeruk No.1, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:06",
+      "jamKeluar": "17:03"
+    },
+    {
+      "id": "56",
+      "nama": "Mira",
+      "alamat": "Jl. Kebon Jeruk No.1, Jakarta",
+      "jenisKelamin": "P",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:09",
+      "jamKeluar": "17:01"
+    },
+    {
+      "id": "57",
+      "nama": "Aditya",
+      "alamat": "Jl. Dago No.20, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-21",
+      "jamMasuk": "08:12",
+      "jamKeluar": "17:00"
+    },
+    {
+      "id": "58",
+      "nama": "Aditya",
+      "alamat": "Jl. Dago No.20, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-22",
+      "jamMasuk": "08:08",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "59",
+      "nama": "Aditya",
+      "alamat": "Jl. Dago No.20, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-23",
+      "jamMasuk": "08:15",
+      "jamKeluar": "17:02"
+    },
+    {
+      "id": "60",
+      "nama": "Aditya",
+      "alamat": "Jl. Dago No.20, Bandung",
+      "jenisKelamin": "L",
+      "tanggal": "2025-07-24",
+      "jamMasuk": "08:09",
+      "jamKeluar": "17:04"
+    },
+    {
+      "id": "2eea",
+      "nama": "Rahman Nurhayadi",
+      "jenisKelamin": "L",
+      "alamat": "Jl. Pelajar Pejuang 45 No.10, Bandung",
+      "tanggal": "2025-07-25",
+      "jamMasuk": "09:30",
+      "jamKeluar": "09:30"
+    },
+    {
+      "id": "b72c",
+      "nama": "Andi",
+      "jenisKelamin": "L",
+      "alamat": "Jl. Pelajar Pejuang 45 No.10, Bandung",
+      "tanggal": "2025-07-25",
+      "jamMasuk": "10:20",
+      "jamKeluar": "10:20"
+    },
+    {
+      "id": "64b4",
+      "nama": "Andiii",
+      "jenisKelamin": "L",
+      "alamat": "Jl. Pelajar Pejuang 45 No.10, Bandung",
+      "tanggal": "2025-07-25",
+      "jamMasuk": "10:21",
+      "jamKeluar": "10:21"
+    },
+    {
+      "id": "f3e2",
+      "nama": "Andiii",
+      "jenisKelamin": "L",
+      "alamat": "Jl. Pelajar Pejuang 45 No.10, Bandung",
+      "tanggal": "2025-07-25",
+      "jamMasuk": "10:22",
+      "jamKeluar": "10:22"
+    }
+  ]
+}
